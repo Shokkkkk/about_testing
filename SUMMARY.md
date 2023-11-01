@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Письмо читателю](README.md)
+* [Вступительная часть 1 или что-то про экологичность в работе](vstupitelnaya-chast-1-ili-chto-to-pro-ekologichnost-v-rabote/README.md)
+  * [Легкий способ войти в айти](vstupitelnaya-chast-1-ili-chto-to-pro-ekologichnost-v-rabote/legkii-sposob-voiti-v-aiti.md)
 
 ## Верхнеуровнево, о тестировании
 
@@ -9,7 +11,6 @@
 ## Для тестировщика
 
 * [Если ты тестировщик -> продолжай читать](dlya-testirovshika/esli-ty-testirovshik-greater-than-prodolzhai-chitat.md)
-* [Page 1](dlya-testirovshika/page-1.md)
 
 ## для разработчика
 
