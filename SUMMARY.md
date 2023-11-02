@@ -11,11 +11,23 @@
 ## Для тестировщика
 
 * [Если ты тестировщик -> продолжай читать](dlya-testirovshika/esli-ty-testirovshik-greater-than-prodolzhai-chitat.md)
+* [Пирамида тестирования](dlya-testirovshika/piramida-testirovaniya.md)
+* [Тест дизайн](dlya-testirovshika/test-dizain.md)
+* [Тестовые артефакты](dlya-testirovshika/testovye-artefakty.md)
 
-## для разработчика
+## для автоматизатора
 
-* [Page 2](dlya-razrabotchika/page-2.md)
+* [Важные советы](dlya-avtomatizatora/vazhnye-sovety.md)
+* [Selenium](dlya-avtomatizatora/selenium.md)
+* [паттерн PageObject](dlya-avtomatizatora/pattern-pageobject.md)
 
-## про автоматизацию
+## Теория
 
-* [Page 3](pro-avtomatizaciyu/page-3.md)
+* [Теория программирования](teoriya/teoriya-programmirovaniya/README.md)
+  * [ООП, классы, атрибуты, методы, объекты.](teoriya/teoriya-programmirovaniya/oop-klassy-atributy-metody-obekty..md)
+  * [Основные принципы ООП](teoriya/teoriya-programmirovaniya/osnovnye-principy-oop.md)
+  * [Преимущества и недостатки ООП](teoriya/teoriya-programmirovaniya/preimushestva-i-nedostatki-oop.md)
+  * [Page](teoriya/teoriya-programmirovaniya/page.md)
+* [Принципы разработки](teoriya/principy-razrabotki/README.md)
+  * [SOLID](teoriya/principy-razrabotki/solid.md)
+* [SQL по верхам](teoriya/sql-po-verkham.md)
