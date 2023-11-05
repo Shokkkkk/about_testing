@@ -14,12 +14,17 @@
 * [Пирамида тестирования](dlya-testirovshika/piramida-testirovaniya.md)
 * [Тест дизайн](dlya-testirovshika/test-dizain.md)
 * [Тестовые артефакты](dlya-testirovshika/testovye-artefakty.md)
+* [Zero Bug Policy](dlya-testirovshika/zero-bug-policy.md)
+* [Risk Based Testing](dlya-testirovshika/risk-based-testing.md)
+* [Мутационное тестирование](dlya-testirovshika/mutacionnoe-testirovanie.md)
 
 ## для автоматизатора
 
 * [Важные советы](dlya-avtomatizatora/vazhnye-sovety.md)
 * [Selenium](dlya-avtomatizatora/selenium.md)
-* [паттерн PageObject](dlya-avtomatizatora/pattern-pageobject.md)
+* [паттерн PageObject](dlya-avtomatizatora/pattern-pageobject/README.md)
+  * [Пример](dlya-avtomatizatora/pattern-pageobject/primer.md)
+* [ATDD and TDD and BDD](dlya-avtomatizatora/atdd-and-tdd-and-bdd.md)
 
 ## Теория
 
