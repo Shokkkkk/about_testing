@@ -11,9 +11,13 @@
 ## Для тестировщика
 
 * [Если ты тестировщик -> продолжай читать](dlya-testirovshika/esli-ty-testirovshik-greater-than-prodolzhai-chitat.md)
-* [Пирамида тестирования](dlya-testirovshika/piramida-testirovaniya.md)
+* [Пирамида тестирования или уровни тестирования](dlya-testirovshika/piramida-testirovaniya-ili-urovni-testirovaniya.md)
 * [Тест дизайн](dlya-testirovshika/test-dizain.md)
-* [Тестовые артефакты](dlya-testirovshika/testovye-artefakty.md)
+* [Тестовые артефакты](dlya-testirovshika/testovye-artefakty/README.md)
+  * [Баг репорт](dlya-testirovshika/testovye-artefakty/bag-report.md)
+  * [Тест кейс](dlya-testirovshika/testovye-artefakty/test-keis.md)
+  * [Тест план](dlya-testirovshika/testovye-artefakty/test-plan.md)
+* [Типы тестирования](dlya-testirovshika/tipy-testirovaniya.md)
 * [Zero Bug Policy](dlya-testirovshika/zero-bug-policy.md)
 * [Risk Based Testing](dlya-testirovshika/risk-based-testing.md)
 * [Мутационное тестирование](dlya-testirovshika/mutacionnoe-testirovanie.md)
