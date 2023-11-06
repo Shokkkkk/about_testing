@@ -17,6 +17,7 @@
 * [Zero Bug Policy](dlya-testirovshika/zero-bug-policy.md)
 * [Risk Based Testing](dlya-testirovshika/risk-based-testing.md)
 * [Мутационное тестирование](dlya-testirovshika/mutacionnoe-testirovanie.md)
+* [Исследовательское тестирование](dlya-testirovshika/issledovatelskoe-testirovanie.md)
 
 ## для автоматизатора
 
