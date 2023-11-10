@@ -2,9 +2,16 @@
 
 Функциональные:
 
-* Юниты <- белый ящик,&#x20;
-* интеграционные <- серый ящик,&#x20;
-* приемочные <- черный ящик,
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+* Юнит-тестирование (модульное)
+* Интеграционное
+* Приемочное (E2E, end-to-end/ польз сценарии)
+* [Smoke ](https://testengineer.ru/chto-takoe-smok-testirovanie/)(смок-тестирование)
+* [Санитарное ](https://testengineer.ru/chto-takoe-smok-testirovanie/)(sanity)
+* Регрессионное
+* Системное
+* Тестирование интерфейса
 
 Нефункциональные:
 

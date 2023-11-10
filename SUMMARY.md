@@ -12,12 +12,12 @@
 
 * [Если ты тестировщик -> продолжай читать](dlya-testirovshika/esli-ty-testirovshik-greater-than-prodolzhai-chitat.md)
 * [Пирамида тестирования или уровни тестирования](dlya-testirovshika/piramida-testirovaniya-ili-urovni-testirovaniya.md)
+* [Типы тестирования](dlya-testirovshika/tipy-testirovaniya.md)
 * [Тест дизайн](dlya-testirovshika/test-dizain.md)
 * [Тестовые артефакты](dlya-testirovshika/testovye-artefakty/README.md)
   * [Баг репорт](dlya-testirovshika/testovye-artefakty/bag-report.md)
   * [Тест кейс](dlya-testirovshika/testovye-artefakty/test-keis.md)
   * [Тест план](dlya-testirovshika/testovye-artefakty/test-plan.md)
-* [Типы тестирования](dlya-testirovshika/tipy-testirovaniya.md)
 * [Zero Bug Policy](dlya-testirovshika/zero-bug-policy.md)
 * [Risk Based Testing](dlya-testirovshika/risk-based-testing.md)
 * [Мутационное тестирование](dlya-testirovshika/mutacionnoe-testirovanie.md)
@@ -27,8 +27,13 @@
 
 * [Важные советы](dlya-avtomatizatora/vazhnye-sovety.md)
 * [Selenium](dlya-avtomatizatora/selenium.md)
-* [паттерн PageObject](dlya-avtomatizatora/pattern-pageobject/README.md)
-  * [Пример](dlya-avtomatizatora/pattern-pageobject/primer.md)
+* [паттерны проектирования](dlya-avtomatizatora/patterny-proektirovaniya/README.md)
+  * [паттерн PageObject](dlya-avtomatizatora/patterny-proektirovaniya/pattern-pageobject/README.md)
+    * [Пример](dlya-avtomatizatora/patterny-proektirovaniya/pattern-pageobject/primer.md)
+  * [паттерн Screenplay](dlya-avtomatizatora/patterny-proektirovaniya/pattern-screenplay.md)
+  * [паттерн Presenter First](dlya-avtomatizatora/patterny-proektirovaniya/pattern-presenter-first.md)
+  * [Паттерн портов и адаптеров](dlya-avtomatizatora/patterny-proektirovaniya/pattern-portov-i-adapterov.md)
+* [Page 1](dlya-avtomatizatora/page-1.md)
 * [ATDD and TDD and BDD](dlya-avtomatizatora/atdd-and-tdd-and-bdd.md)
 
 ## Теория
