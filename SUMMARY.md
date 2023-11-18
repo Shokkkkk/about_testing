@@ -22,10 +22,15 @@
 * [Risk Based Testing](dlya-testirovshika/risk-based-testing.md)
 * [Мутационное тестирование](dlya-testirovshika/mutacionnoe-testirovanie.md)
 * [Исследовательское тестирование](dlya-testirovshika/issledovatelskoe-testirovanie.md)
+* [Тестовая модель](dlya-testirovshika/testovaya-model.md)
+* [3 амиго](dlya-testirovshika/3-amigo.md)
+* [Статические анализаторы кода](dlya-testirovshika/staticheskie-analizatory-koda.md)
+* [Shift-left, Shift-right](dlya-testirovshika/shift-left-shift-right.md)
 
 ## для автоматизатора
 
 * [Важные советы](dlya-avtomatizatora/vazhnye-sovety.md)
+* [Вопросы с собеседования](dlya-avtomatizatora/voprosy-s-sobesedovaniya.md)
 * [Selenium](dlya-avtomatizatora/selenium.md)
 * [паттерны проектирования для UI автоматизации](dlya-avtomatizatora/patterny-proektirovaniya-dlya-ui-avtomatizacii/README.md)
   * [паттерн PageObject](dlya-avtomatizatora/patterny-proektirovaniya-dlya-ui-avtomatizacii/pattern-pageobject/README.md)
@@ -36,7 +41,6 @@
   * [Паттерн Фабрика](dlya-avtomatizatora/patterny-proektirovaniya-dlya-ui-avtomatizacii/pattern-fabrika.md)
   * [паттерн Presenter First](dlya-avtomatizatora/patterny-proektirovaniya-dlya-ui-avtomatizacii/pattern-presenter-first.md)
   * [Паттерн портов и адаптеров](dlya-avtomatizatora/patterny-proektirovaniya-dlya-ui-avtomatizacii/pattern-portov-i-adapterov.md)
-* [Page 1](dlya-avtomatizatora/page-1.md)
 * [Типы локаторов](dlya-avtomatizatora/tipy-lokatorov.md)
 * [ATDD and TDD and BDD](dlya-avtomatizatora/atdd-and-tdd-and-bdd.md)
 
@@ -49,6 +53,8 @@
   * [Page](teoriya/teoriya-programmirovaniya/page.md)
 * [Принципы разработки](teoriya/principy-razrabotki/README.md)
   * [SOLID](teoriya/principy-razrabotki/solid.md)
+* [База по базам](teoriya/baza-po-bazam.md)
 * [SQL по верхам](teoriya/sql-po-verkham.md)
+* [Сети](teoriya/seti.md)
 * [RESTful api](teoriya/restful-api.md)
 * [SOAP](teoriya/soap.md)
