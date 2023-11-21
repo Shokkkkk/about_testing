@@ -29,6 +29,13 @@
 ## для автоматизатора
 
 * [API](dlya-avtomatizatora/api.md)
+* [HTTP](dlya-avtomatizatora/http/README.md)
+  * [HTTP methods CRUD](dlya-avtomatizatora/http/http-methods-crud.md)
+  * [HTTP method Options](dlya-avtomatizatora/http/http-method-options.md)
+  * [HTTP method Head](dlya-avtomatizatora/http/http-method-head.md)
+  * [Status codes](dlya-avtomatizatora/http/status-codes.md)
+  * [Headers](dlya-avtomatizatora/http/headers.md)
+* [Page 1](dlya-avtomatizatora/page-1.md)
 * [Важные советы](dlya-avtomatizatora/vazhnye-sovety.md)
 * [Вопросы с собеседования](dlya-avtomatizatora/voprosy-s-sobesedovaniya.md)
 * [Selenium](dlya-avtomatizatora/selenium.md)
